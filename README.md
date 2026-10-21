@@ -12,6 +12,6 @@ The reason being is that it is probably important for the whole team to be able 
 3. Clone the repo to your host machine
 4. Pull from the repo so that you have the most up-to-date files:
    git pull origin main
-5. Switch to your branch within your IDE. Branches that you are not directly switched into or are not loaded onto your machine are called remote branches, so that's some error troubleshooting terminology
+5. Switch to your branch within your IDE. Branches that you are not directly switched into or are not loaded onto your machine are called remote branches, so that's some error troubleshooting terminology:
    git switch <branchname>
 6. Develop, commit your work, etc!

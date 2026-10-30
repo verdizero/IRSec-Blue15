@@ -51,6 +51,7 @@ case "$HOSTNAME" in
             nm-openvpn rtkit pipewire geoclue scrutineer
             techdirector crewchief firecrew jackcrew
             garagecrew celebrity pitlaner reserve gunners
+            whiteteam, dd-agent, ddagentuser
         )
         ;;
 
@@ -63,6 +64,7 @@ case "$HOSTNAME" in
             tcpdump polkitd ftp avahi scrutineer
             techdirector crewchief firecrew jackcrew 
             garagecrew celebrity pitlaner reserve gunners
+            whiteteam, dd-agent, ddagentuser
         )
         ;;
     
@@ -75,6 +77,7 @@ case "$HOSTNAME" in
             tcpdump avahi scrutineer techdirector 
             crewchief firecrew jackcrew garagecrew
             celebrity pitlaner reserve gunners
+            whiteteam, dd-agent, ddagentuser
         )
         ;;
 
@@ -86,6 +89,7 @@ case "$HOSTNAME" in
             dbus polkitd chrony avahi scrutineer
             techdirector crewchief firecrew jackcrew
             garagecrew celebrity pitlaner reserve gunners
+            whiteteam, dd-agent, ddagentuser
         )
         ;;
 

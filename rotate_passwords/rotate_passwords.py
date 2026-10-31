@@ -18,6 +18,7 @@ def generate_password():
 
 def main():
     print(generate_password())
+    print("Now change the password on the scored service!")
 
 if __name__ == '__main__':
     main()
